@@ -53,3 +53,11 @@ learned about this, static, sealed and is operator.
 #04/02/2025
 
 solution on  this, static, sealed and is operator added.
+
+#05/02/2025
+
+Learn about object oriented, design principal, class diagram, object diagram, sequence diagram.
+
+#06/02/2025
+
+solution on object oriented, design principal, class diagram, object diagram, sequence diagram added.
