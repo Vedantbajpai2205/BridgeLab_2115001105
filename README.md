@@ -61,3 +61,11 @@ Learn about object oriented, design principal, class diagram, object diagram, se
 #06/02/2025
 
 solution on object oriented, design principal, class diagram, object diagram, sequence diagram added.
+
+#07/02/2025
+
+learn about inheritance and its types.
+
+#08/02/2025
+
+solution on iheritance added.
