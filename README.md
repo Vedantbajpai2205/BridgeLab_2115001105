@@ -69,3 +69,11 @@ learn about inheritance and its types.
 #08/02/2025
 
 solution on iheritance added.
+
+#09/02/2025
+
+learn about encapsulation, polymorphism, interface and abstract
+
+#10/02/2025
+
+solution added on encapsulation, polymorphism, interface and abstract in branch
