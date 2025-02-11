@@ -77,3 +77,7 @@ learn about encapsulation, polymorphism, interface and abstract
 #10/02/2025
 
 solution added on encapsulation, polymorphism, interface and abstract in branch
+
+#11/02/2025
+
+Solution On Linked List Added.
