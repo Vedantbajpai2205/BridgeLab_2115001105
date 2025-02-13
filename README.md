@@ -81,3 +81,11 @@ solution added on encapsulation, polymorphism, interface and abstract in branch
 #11/02/2025
 
 Solution On Linked List Added.
+
+#12/02/2025
+
+learn about stack, queue and hashmap.
+
+#13/02/2025
+
+solution on stack, queue and hashmap added in branch.
