@@ -89,3 +89,7 @@ learn about stack, queue and hashmap.
 #13/02/2025
 
 solution on stack, queue and hashmap added in branch.
+
+#14/02/2025
+
+solution on quick sort, merge sort, insertion sort and bubblr sort added.
