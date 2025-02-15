@@ -93,3 +93,8 @@ solution on stack, queue and hashmap added in branch.
 #14/02/2025
 
 solution on quick sort, merge sort, insertion sort and bubblr sort added.
+
+#15/02/2025
+
+Solution on linear search and binary search added
+
