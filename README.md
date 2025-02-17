@@ -98,3 +98,10 @@ solution on quick sort, merge sort, insertion sort and bubblr sort added.
 
 Solution on linear search and binary search added
 
+#16/02/2025
+
+Learn about General Algorithm and Time Complexity.
+
+#17/02/2025
+
+Solution on General Algorithm and Time Complexity Added.
