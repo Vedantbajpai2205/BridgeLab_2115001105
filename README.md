@@ -109,3 +109,7 @@ Solution on General Algorithm and Time Complexity Added.
 #18/02/2025
 
 Solution on Generics Added.
+
+#19/02/2025
+
+Solution on Collections Added.
