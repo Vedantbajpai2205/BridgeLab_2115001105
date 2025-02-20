@@ -113,3 +113,7 @@ Solution on Generics Added.
 #19/02/2025
 
 Solution on Collections Added.
+
+#20/02/2025
+
+Solution on C# Streams Added.
