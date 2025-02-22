@@ -121,3 +121,7 @@ Solution on C# Streams Added.
 #21/02/2025
 
 Solution of Exception Added.
+
+#22/02/2025
+
+Solution of Regex and Nunit Added.
