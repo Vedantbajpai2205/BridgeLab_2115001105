@@ -134,3 +134,11 @@ Learn about Reflection an annotations.
 
 Solution of Reflection and Annotations Added.
 
+#25/02/2025
+
+Solution of CSV Data Handeling Added.
+
+#26/02/2025
+
+Solution of Json Data Added.
+ 
