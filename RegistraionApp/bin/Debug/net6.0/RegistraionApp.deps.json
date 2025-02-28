@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistraionApp/1.0.0": {
+        "dependencies": {
+          "BusinessLayer1": "1.0.0",
+          "ModelLayer1": "1.0.0"
+        },
+        "runtime": {
+          "RegistraionApp.dll": {}
+        }
+      },
+      "BusinessLayer1/1.0.0": {
+        "dependencies": {
+          "ModelLayer1": "1.0.0",
+          "RepositoryLayer1": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayer1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ModelLayer1/1.0.0": {
+        "runtime": {
+          "ModelLayer1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RepositoryLayer1/1.0.0": {
+        "dependencies": {
+          "ModelLayer1": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryLayer1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistraionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelLayer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryLayer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

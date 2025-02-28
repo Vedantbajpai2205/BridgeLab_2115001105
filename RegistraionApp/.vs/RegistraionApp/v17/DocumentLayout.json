@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|c:\\users\\vedant sir\\source\\repos\\registraionapp\\controllers\\registrationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|solutionrelative:controllers\\registrationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC8DB5-31B4-4B00-8088-F2194856E9CF}|..\\ModelLayer1\\ModelLayer1.csproj|c:\\users\\vedant sir\\source\\repos\\modellayer1\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|c:\\users\\vedant sir\\source\\repos\\registraionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF4B2CB-31D7-4B81-96FF-64772EAA6AF1}|..\\BusinessLayer1\\BusinessLayer1.csproj|c:\\users\\vedant sir\\source\\repos\\businesslayer1\\service\\registrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC8DB5-31B4-4B00-8088-F2194856E9CF}|..\\ModelLayer1\\ModelLayer1.csproj|c:\\users\\vedant sir\\source\\repos\\modellayer1\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454A58FF-5C26-46EE-B667-D9018C472C24}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\vedant sir\\source\\repos\\repositorylayer1\\service\\resgistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|c:\\users\\vedant sir\\source\\repos\\registraionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|c:\\users\\vedant sir\\source\\repos\\registraionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EE0A42A-13A2-430A-AD00-A6AC071E79CC}|RegistraionApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\ModelLayer1\\DTO\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer1\\DTO\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\ModelLayer1\\DTO\\RegistrationDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer1\\DTO\\RegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:05:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:25:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationApp.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Controllers\\RegistrationApp.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationApp.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Controllers\\RegistrationApp.cs",
+              "RelativeToolTip": "Controllers\\RegistrationApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:58:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T16:12:08.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\ModelLayer1\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer1\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\ModelLayer1\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer1\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:07:15.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResgistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\RepositoryLayer1\\Service\\ResgistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Service\\ResgistrationRL.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\RepositoryLayer1\\Service\\ResgistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Service\\ResgistrationRL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:03:37.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\BusinessLayer1\\Service\\RegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer1\\Service\\RegistrationBL.cs",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\BusinessLayer1\\Service\\RegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer1\\Service\\RegistrationBL.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:01:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\VEDANT SIR\\source\\repos\\RegistraionApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T16:25:23.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
