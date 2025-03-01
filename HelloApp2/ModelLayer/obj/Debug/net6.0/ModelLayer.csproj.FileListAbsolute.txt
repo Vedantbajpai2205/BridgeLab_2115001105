@@ -1,0 +1,34 @@
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Users\Vatsal Jain\source\repos\HelloApp2\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+E:\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+E:\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+E:\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+E:\HelloApp2\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.sourcelink.json
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Assessment 2 Level_1\HelloApp2\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

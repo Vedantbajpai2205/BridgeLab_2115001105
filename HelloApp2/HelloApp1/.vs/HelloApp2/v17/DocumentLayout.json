@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B32CF7-125A-49AA-A657-5A9D7F16E9B0}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B32CF7-125A-49AA-A657-5A9D7F16E9B0}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\businesslayer\\interface\\iregisterhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\repositorylayer\\interface\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\repositorylayer\\service\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F21493-AC9B-4F8D-B89D-6A3B310D0FF8}|..\\ModelLayer\\ModelLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HelloApp2\\RepositoryLayer\\Interface\\ILoggerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B32CF7-125A-49AA-A657-5A9D7F16E9B0}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\assessment 2 level_1\\helloapp2\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Entity\\UserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\helloapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:helloapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\assessment 2 level_1\\helloapp2\\helloapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Migrations\\20250301095837_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Context\\HelloAppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\ModelLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HelloApp2\\RepositoryLayer\\Service\\LoggerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HelloApp2\\RepositoryLayer\\RepositoryLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:02:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:47:54.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:47:51.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:46:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:45:53.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:44:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:44:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:43:57.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HelloApp1.csproj",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\HelloApp1.csproj",
+              "RelativeDocumentMoniker": "HelloApp1.csproj",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\HelloApp1.csproj",
+              "RelativeToolTip": "HelloApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:07:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "E:\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "E:\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:55:02.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "E:\\HelloApp2\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "ToolTip": "E:\\HelloApp2\\RepositoryLayer\\Service\\LoggerManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:52:54.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "E:\\HelloApp2\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "ToolTip": "E:\\HelloApp2\\RepositoryLayer\\Interface\\ILoggerManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:52:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "E:\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "E:\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:33:57.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "E:\\HelloApp2\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "E:\\HelloApp2\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T15:30:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250301095837_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Migrations\\20250301095837_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Migrations\\20250301095837_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Migrations\\20250301095837_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Migrations\\20250301095837_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:58:38.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:32:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:18:19.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HelloAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:10:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:00:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:22:41.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:18:17.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:12:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:06:50.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T06:24:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:21:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:18:08.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vatsal Jain\\source\\repos\\HelloApp2\\ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T06:15:10.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:44:43.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T06:42:17.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Assessment 2 Level_1\\HelloApp2\\HelloApp1\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:41:29.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
