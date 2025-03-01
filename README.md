@@ -149,3 +149,7 @@ Learn about web abi.
 #28/02/2025
 
 Solution of Web Api Added.
+
+#01/03/2024
+
+Solution of ORM-Entity Framework added.
